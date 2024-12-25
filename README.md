@@ -10,7 +10,7 @@ Computation was carried out in `Matlab`.  All results are confirmed on `Windows`
 
 ## Replication Instructions
 
-1. Ensure the `SIGNAL_OP Package' subfolder is included in your `Matlab' path
+1. Ensure the `SIGNAL_OP Package` subfolder is included in your `Matlab` path
 2. By default, plots will be generated but not saved.  If you want to automatically save the generated plots, create a subfolder `graphs', and edit the `MMIIES_replication_6' file to include `plot_saving = 1'.
 3. Run `MMIIES_replication_6'
 
