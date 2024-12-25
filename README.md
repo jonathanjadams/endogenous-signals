@@ -8,7 +8,7 @@ This repository contains the replication package for the following paper:
 
 Computation was carried out in `Matlab`.  All results are confirmed on `Windows` using `Matlab` version `2021a`
 
-## Replication Instructions
+# Replication Instructions
 
 1. Ensure the `SIGNAL_OP Package` subfolder is included in your `Matlab` path
 2. By default, plots will be generated but not saved.  If you want to automatically save the generated plots, create a subfolder `graphs`, and edit the `MMIIES_replication_6` file to include `plot_saving = 1`.
