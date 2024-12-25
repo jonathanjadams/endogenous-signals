@@ -23,7 +23,7 @@ Computation was carried out in `Matlab`.  All results are confirmed on `Windows`
 * `MMIIES_beauty_contest`: This file solves the indeterminacy regions in the beauty contest model.
 * `MMIIES_singleton`: This file compares solutions to the Singleton model
 * `MMIIES_confoundingdynamics`: This file computes the indeterminacy region in the idiosyncratic confounding dynamics model, and the perturbation divergence in the baseline confounding dynamics model
-* `MMIIES_singleton_ztran`: This file solves the Singleton model with the Han et al (2022) z-tran toolbox; it produces the output fils "ztran_singleton" and "ztran_singleton_time".  This file does not need to be run to reproduce the paper figures.  But to make comparisons about algorithm solution times using your own computer, you will need to run this program.
+* `MMIIES_singleton_ztran`: This file solves the Singleton model with the Han et al (2022) z-tran toolbox; it produces the output files `ztran_singleton` and `ztran_singleton_time`.  This file does not need to be run to reproduce the paper figures.  But to make comparisons about algorithm solution times using your own computer, you will need to run this program.
 * `beauty_contest_discriminant`: sub-routine used in `MMIIES_beauty_contest`
 * `cdi_discriminant`: sub-routine used in `MMIIES_confoundingdynamics` 
 
